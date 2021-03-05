@@ -1,7 +1,9 @@
 "use strict";
-window.addEventListener("load", function () {
+this.calcular();
+//Calcular las dimensiones a cargar la pagina
+window.onload = function () {
   this.calcular();
-});
+};
 
 //detectar cambios de resolucion
 window.addEventListener("resize", function () {
