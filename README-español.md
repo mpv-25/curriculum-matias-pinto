@@ -2,6 +2,8 @@
 
 _Tarea de CURRICULUM en formato Web, para la materia de Arquitectura WEB (FP-UNA)_
 
+## Ver proyecto 🚀
+* [curriculum-matias-pinto](https://mpv-25.github.io/curriculum-matias-pinto/) 
 
 ### Pre-requisitos 📋
 
