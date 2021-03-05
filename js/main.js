@@ -1,5 +1,4 @@
 "use strict";
-this.calcular();
 //Calcular las dimensiones a cargar la pagina
 window.onload = function () {
   this.calcular();
