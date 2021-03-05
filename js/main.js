@@ -1,5 +1,8 @@
 "use strict";
-this.calcular();
+window.addEventListener("load", function () {
+  this.calcular();
+});
+
 //detectar cambios de resolucion
 window.addEventListener("resize", function () {
   this.calcular();
